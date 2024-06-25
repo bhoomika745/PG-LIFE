@@ -1,2 +1,5 @@
-# PG-LIFE
-A platform simplifying the search and booking process for PG accommodations with user-friendly features.
+# PGlife
+This is a website with some exciting functionality 
+
+Due to the existence of the database, it cannot be hosted on GitHub
+I will link the video . watch in Linkedln
